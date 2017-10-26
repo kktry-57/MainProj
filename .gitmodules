@@ -1,0 +1,3 @@
+[submodule "libs\\myLib"]
+	path = libs\\myLib
+	url = https://github.com/kktry/myLib.git
